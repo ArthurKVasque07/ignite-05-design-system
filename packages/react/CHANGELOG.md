@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @akv777-ui/react
 
 ## 2.0.0
 
