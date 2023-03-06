@@ -1,0 +1,2 @@
+import{A as t}from"./index.11352f8a.js";import"./index.e4d90508.js";import"./iframe.df7fbe60.js";import"./index.c9bc65ec.js";import"./jsx-runtime.40f0fbeb.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ArthurKVasque07.png",alt:"Arthur Vasque"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.46c98bb8.js.map
