@@ -1,5 +1,11 @@
 # @akv777-ui/tokens
 
+## 2.2.0
+
+### Minor Changes
+
+- Add some fixes for furture project
+
 ## 2.1.0
 
 ### Minor Changes
