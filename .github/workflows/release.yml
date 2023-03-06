@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: oZAbDcz3BFnR8NDESyZDzr5w          
+          TURBO_TOKEN: ${{ secrets.GITHUB_TOKEN }}          
           TURBO_TEAM: arthurkvasque07  
 
       
